@@ -49,3 +49,5 @@ This project consists of an Express Node.js backend (`/server`) and a React Vite
 - As Alice (the owner), find the adjust UI under the food component.
 - Click "Reduce" and type how much is missing, or click "Discard".
 - *Expected*: Values update immediately reflecting reality, preventing over-requesting moving forward.
+
+Kalium Project Enggnering track - Milestone 2 | Challenge 8 - Submission 
